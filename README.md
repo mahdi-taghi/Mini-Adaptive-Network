@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements machine learning models, including Adaline, Perceptron, and a neural network, for binary classification tasks. The models are trained and evaluated on subsets of the Iris dataset and a custom dataset. Visualization of decision boundaries and performance metrics is included.
+This project implements machine learning models, including Adaline, Perceptron, and a neural network, for binary classification tasks. The models are trained and evaluated on subsets of the Iris and  custom dataset. Visualization of decision boundaries and performance metrics are included.
 
 ## Features
 
